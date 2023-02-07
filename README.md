@@ -1,4 +1,9 @@
-### Hi there 👋
+### Oiiie! Eu sou a Isa 👋
+
+- 🔭 Atualmente, estou trabalhando com ciência de dados.
+- 🌱 Apreendendo R e Python
+- 👯 Espero contribuir com projetos e com a comunidade de ciência de dados.
+- 💬 Pergunte-me sobre tecnologia, ciência de dados que ficarei feliz (😄)
 
 <!--
 **isahms/isahms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
